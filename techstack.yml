@@ -1,0 +1,51 @@
+repo_name: nehemiahogato/tron
+report_id: 434318b80bcbc9e16624cc431eb1d88f
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-08T21:21:19+00:00'
+requested_by: vocatus
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: AutoIt
+  description: A freeware BASIC-like scripting language designed for automating the
+    Windows GUI
+  website_url: https://www.autoitscript.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4174/ld3itFbL_400x400.jpg
+  detection_source_url: https://github.com/nehemiahogato/tron
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nehemiahogato/tron
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nehemiahogato/tron
+  detection_source: Repo Metadata
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/nehemiahogato/tron
+  detection_source: Repo Metadata
